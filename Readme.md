@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **https://www.github.com/Aditya0545**
 
-- 👨‍💻 All of my projects are available at [github.com/aditya6805](github.com/aditya6805)
+- 👨‍💻 All of my projects are available at **https://www.github.com/aditya6805**
 
 - 📫 How to reach me **adityathakur1516@gmail.com**
 
