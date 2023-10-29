@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Google Developer Group**
 
-- 🤝 I’m looking for help with **github.com/Aditya0545**
+- 🤝 I’m looking for help with **https://www.github.com/Aditya0545**
 
 - 👨‍💻 All of my projects are available at [github.com/aditya6805](github.com/aditya6805)
 
