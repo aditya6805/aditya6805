@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **DSA, Python, JAVA**
 
-- 👯 I’m looking to collaborate on **Google Developer Group**
-
 - 🤝 I’m looking for help with **https://www.github.com/Aditya0545**
 
 - 👨‍💻 All of my projects are available at **https://www.github.com/aditya6805**
