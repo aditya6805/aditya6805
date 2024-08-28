@@ -9,13 +9,11 @@
 
 - 🌱 I’m currently learning **DSA, Python, JAVA**
 
-- 🤝 I’m looking for help with **https://www.github.com/Aditya0545**
-
 - 👨‍💻 All of my projects are available at **https://www.github.com/aditya6805**
 
 - 📫 How to reach me **adityathakur1516@gmail.com**
 
-- ⚡ Fun fact **I think, I am Funny**
+- ⚡ Fun fact **I think, the whole world is Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
